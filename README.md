@@ -2,7 +2,7 @@
 
 Theme based on [Zork](https://github.com/Bash-it/bash-it/wiki/Themes#zork).
 
-![Imp demo](imp.png)
+![Imp demo](contoh.png)
 
 ## Installation
 
